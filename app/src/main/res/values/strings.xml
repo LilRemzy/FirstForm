@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirstForm</string>
+    <string name="registration_form">Registration form</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full name</string>
+    <string name="country">Country</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="terms">Agree with Terms &amp; Conditions</string>
+    <string name="create_account">Create account</string>
+    <string name="dialog_title">Registration Details</string>
+    <string name="dialog_ok">OK</string>
+    <string name="gender_not_selected">Not selected</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
