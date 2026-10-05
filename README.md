@@ -16,6 +16,6 @@ Moja druga aplikacija, v kateri sem izdelal registracijski obrazec, zajel uporab
 - preizkusiti aplikacijo v emulatorju.<br>
 
 ## Zaslonske Slike Aplikacije:<br>
-<img width="270" height="555" alt="Slika3" src="https://github.com/user-attachments/assets/4841b326-ed70-43ff-8f4b-50f33d7e63a3" />
-<img width="270" height="555" alt="Slika2" src="https://github.com/user-attachments/assets/0ef46e7d-062e-4ab9-ad88-e2a35411c836" />
 <img width="270" height="555" alt="Slika1" src="https://github.com/user-attachments/assets/7f7cf7ae-4c88-4428-9e8a-0cc0affaefde" />
+<img width="270" height="555" alt="Slika2" src="https://github.com/user-attachments/assets/0ef46e7d-062e-4ab9-ad88-e2a35411c836" />
+<img width="270" height="555" alt="Slika3" src="https://github.com/user-attachments/assets/4841b326-ed70-43ff-8f4b-50f33d7e63a3" />
